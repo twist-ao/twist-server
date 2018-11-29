@@ -1,0 +1,16 @@
+[MAPA68]
+MagiaSinefecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0
+[MAPA69]
+MagiaSinefecto=0
+InviSinEfecto=1
+ResuSinEfecto=0
+NoEncriptarMP=1
+BackUp= 1
+Pk=1
+Name=SALA DE ESPERA
+Terreno=BOSQUE
+Zona=CIUDAD
+Restringir=No

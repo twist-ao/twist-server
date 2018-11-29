@@ -1,0 +1,80 @@
+'#################### LISTA DE SPAWN #############################
+[INIT]
+NumNPCs=25
+
+
+[LIST]
+NI1=590
+NN1=Barlog
+
+NI2=591
+NN2=Duby
+
+NI3=592
+NN3=Hombre Peludo
+
+NI4=593
+NN4=Guild
+
+NI5=595
+NN5=Sombra Siniestra
+
+NI6=584
+NN6=Dragon De Fuego
+
+NI7=585
+NN7=Dragon De Agua
+
+NI8=586
+NN8=Fiume Dragon
+
+NI9=5
+NN9=El Cura
+
+NI10=14
+NN10=Las Pots
+
+NI11=24
+NN11=Boveda
+
+NI12=7
+NN12=Armors Altos
+
+NI13=37
+NN13=Armors Bajos
+
+NI14=38
+NN14=Espadas
+
+NI15=55
+NN15=Dagas
+
+NI16=56
+NN16=Cascos
+
+NI17=116
+NN17=Escudos
+
+NI18=51
+NN18=Baculos
+
+NI19=39
+NN19=Tunicas Altos
+
+NI20=54
+NN20=Tunicas Bajas
+
+NI21=12
+NN21=Ropas Comunes
+
+NI22=46
+NN22=Hechis Comunes
+
+NI23=47
+NN23=Hechis Grosos
+
+NI24=118
+NN24=Robin Hood
+
+NI25=604
+NN25=Barlog Infernal
